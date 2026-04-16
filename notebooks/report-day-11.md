@@ -1,5 +1,6 @@
-# Phần B: Báo cáo cá nhân - Đường ống Defense-in-Depth
-
+# Phần B: Báo cáo cá nhân -  Defense-in-Depth
+Họ và tên : Lý Quốc An  
+Mã sinh viên : 2A202600123
 ## 1. Phân tích kết cấu các lớp bảo mật (Layer Analysis & Bonus)
 
 **Kết cấu 7 lớp bảo mật (Có tích hợp các tinh chỉnh nâng cao):**
